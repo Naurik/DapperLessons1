@@ -1,0 +1,12 @@
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\bin\Debug\DapperModels.dll
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\bin\Debug\DapperModels.pdb
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\obj\Debug\Dapper.Models.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\obj\Debug\Dapper.Models.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\obj\Debug\DapperModels.dll
+c:\users\джабашевн.corp\source\repos\DapperStudentsApp\DapperModels\obj\Debug\DapperModels.pdb
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\bin\Debug\DapperModels.dll
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\bin\Debug\DapperModels.pdb
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\obj\Debug\Dapper.Models.csprojAssemblyReference.cache
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\obj\Debug\Dapper.Models.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\obj\Debug\DapperModels.dll
+C:\Users\МашимовН.CORP\Desktop\DapperStudentsApp\DapperModels\obj\Debug\DapperModels.pdb
